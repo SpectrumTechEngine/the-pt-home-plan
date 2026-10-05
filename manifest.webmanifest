@@ -1,0 +1,32 @@
+{
+  "name": "The PT Home Plan",
+  "short_name": "PT Home Plan",
+  "description": "Turns the sheets your physio gives you into one organised routine.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F1E8",
+  "theme_color": "#0E6B66",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
